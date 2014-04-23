@@ -12,6 +12,11 @@ javascript talks
 - [JavaScript Testing with Jasmine - ~7min](http://vimeo.com/71326996) 
 
 
+ui/ux
+---------------------- 
+
+- [How to Rethink Navigation for 2in1s - ~5min](https://software.intel.com/en-us/videos/how-to-rethink-navigation-for-2in1s) 
+
 
 other talks
 ---------------------- 
