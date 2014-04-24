@@ -17,6 +17,11 @@ ui/ux
 
 - [How to Rethink Navigation for 2in1s - ~5min](https://software.intel.com/en-us/videos/how-to-rethink-navigation-for-2in1s) 
 
+web & society
+---------------------- 
+
+#### 30c3 / Jacob Applebaum (TOR Project, u.A.)
+- [To Protect And Infect Pt2](http://media.ccc.de/browse/congress/2013/30C3_-_5713_-_en_-_saal_2_-_201312301130_-_to_protect_and_infect_part_2_-_jacob.html) (bereits angefangen)
 
 other talks
 ---------------------- 
