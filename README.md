@@ -27,3 +27,4 @@ other talks
 ---------------------- 
 * [RSA Animate - Crises of Capitalism](https://www.youtube.com/watch?v=qOP2V_np2c0)
 * [TED: Best Stats](http://www.ted.com/talks/hans_rosling_shows_the_best_stats_you_ve_ever_seen)
+* [Hausdurchsuchung](https://www.youtube.com/watch?v=6QN5pashwKk) ~1h11min
