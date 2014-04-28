@@ -11,6 +11,8 @@ javascript talks
 #### jasmine  
 - [JavaScript Testing with Jasmine - ~7min](http://vimeo.com/71326996) 
 
+#### error handling  
+- [MountainWest JavaScript 2014 - Traces of Errors: Getting Better JavaScript Stacktraces - ~28min](https://www.youtube.com/watch?v=4Tys-VuBPgo) 
 
 ui/ux
 ---------------------- 
