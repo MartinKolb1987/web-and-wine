@@ -5,22 +5,23 @@ javascript talks
 - [Require.js](https://www.youtube.com/watch?v=vWGuaZOTR4U) (34min)
 
 #### meteor  
-- [Oli Evans - LXJS 2013 - Meteor - ~30min](https://www.youtube.com/watch?v=jFiLPpTKK-I&feature=youtu.be)  
+- [Oli Evans - LXJS 2013 - Meteor](https://www.youtube.com/watch?v=jFiLPpTKK-I&feature=youtu.be) ~30min  
 
 #### angular.js  
-- [AngularJS Fundamentals In 60-ish Minutes - ~70min](https://www.youtube.com/watch?v=i9MHigUZKEM&feature=youtu.be) 
-- [Testing with AngularJS - ngToronto Sept 25th 2013 - ~40min](https://www.youtube.com/watch?v=AKwqfHm-3ZQ&feature=youtu.be) 
+- [AngularJS Fundamentals In 60-ish Minutes](https://www.youtube.com/watch?v=i9MHigUZKEM&feature=youtu.be) ~70min 
+- [Testing with AngularJS - ngToronto Sept 25th 2013](https://www.youtube.com/watch?v=AKwqfHm-3ZQ&feature=youtu.be) ~40min 
 
 #### jasmine  
-- [JavaScript Testing with Jasmine - ~7min](http://vimeo.com/71326996) 
+- [JavaScript Testing with Jasmine](http://vimeo.com/71326996) ~7min 
 
 #### error handling  
-- [MountainWest JavaScript 2014 - Traces of Errors: Getting Better JavaScript Stacktraces - ~28min](https://www.youtube.com/watch?v=4Tys-VuBPgo) 
+- [MountainWest JavaScript 2014 - Traces of Errors: Getting Better JavaScript Stacktraces (client-side)](https://www.youtube.com/watch?v=4Tys-VuBPgo) ~28min 
+- [MountainWest JavaScript 2014 - full stack error handling in node.js](https://www.youtube.com/watch?v=p-2fzgfk9AA) ~24min 
 
 ui/ux
 ---------------------- 
 
-- [How to Rethink Navigation for 2in1s - ~5min](https://software.intel.com/en-us/videos/how-to-rethink-navigation-for-2in1s) 
+- [How to Rethink Navigation for 2in1s](https://software.intel.com/en-us/videos/how-to-rethink-navigation-for-2in1s) ~5min  
 
 web & society
 ---------------------- 
