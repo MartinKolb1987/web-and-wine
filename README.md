@@ -1,4 +1,4 @@
-javascript talks
+javascript/dev talks
 ----------------------
 
 #### Architecture
@@ -16,7 +16,10 @@ javascript talks
 
 #### error handling  
 - [MountainWest JavaScript 2014 - Traces of Errors: Getting Better JavaScript Stacktraces (client-side)](https://www.youtube.com/watch?v=4Tys-VuBPgo) ~28min 
-- [MountainWest JavaScript 2014 - full stack error handling in node.js](https://www.youtube.com/watch?v=p-2fzgfk9AA) ~24min 
+- [MountainWest JavaScript 2014 - full stack error handling in node.js](https://www.youtube.com/watch?v=p-2fzgfk9AA) ~24min
+
+#### Firefox OS
+- [App Basics For Firefox OS](https://www.youtube.com/watch?v=NRRVQSLea34) ~35min
 
 ui/ux
 ---------------------- 
@@ -27,7 +30,7 @@ web & society
 ---------------------- 
 
 #### 30c3 / Jacob Applebaum (TOR Project, u.A.)
-- [To Protect And Infect Pt2](http://media.ccc.de/browse/congress/2013/30C3_-_5713_-_en_-_saal_2_-_201312301130_-_to_protect_and_infect_part_2_-_jacob.html) (bereits angefangen)
+- [To Protect And Infect Pt2](http://media.ccc.de/browse/congress/2013/30C3_-_5713_-_en_-_saal_2_-_201312301130_-_to_protect_and_infect_part_2_-_jacob.html) (bereits angefangen) ~1h, 35min to go
 
 other talks
 ---------------------- 
