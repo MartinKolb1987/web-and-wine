@@ -15,7 +15,7 @@ javascript/dev talks
 - [JavaScript Testing with Jasmine](http://vimeo.com/71326996) ~7min 
 
 #### ECMAScript 6  
-- [Douglas Crockford: The new good parts in ECMAScript 6](http://www.ustream.tv/recorded/46640057) ~51min 
+- [Douglas Crockford: The Better Parts, incl. ECMAScript 6](http://www.ustream.tv/recorded/46640057) ~51min 
 
 #### error handling  
 - [MountainWest JavaScript 2014 - Traces of Errors: Getting Better JavaScript Stacktraces (client-side)](https://www.youtube.com/watch?v=4Tys-VuBPgo) ~28min 
