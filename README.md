@@ -38,6 +38,6 @@ web & society
 other talks
 ---------------------- 
 * [RSA Animate - Crises of Capitalism](https://www.youtube.com/watch?v=qOP2V_np2c0) (11min)
-* [TED: Best Stats](http://www.ted.com/talks/hans_rosling_shows_the_best_stats_you_ve_ever_seen)
+* [Ant Colony Optimization](https://www.youtube.com/watch?v=SMc6UR5blS0) (4min)
 * [Hausdurchsuchung](https://www.youtube.com/watch?v=6QN5pashwKk) ~1h11min
 * [Human Excellence: Justin Packshaw at TEDxLondonBusinessSchool 2014](https://www.youtube.com/watch?v=VZuEHJUg9Yo&list=PLsRNoUx8w3rOHqEz_K3Sg3xwWOZgK1Cwt) ~21min
