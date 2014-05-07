@@ -22,7 +22,7 @@ javascript/dev talks
 - [MountainWest JavaScript 2014 - full stack error handling in node.js](https://www.youtube.com/watch?v=p-2fzgfk9AA) ~24min
 
 #### Firefox OS
-- [App Basics For Firefox OS](https://www.youtube.com/watch?v=NRRVQSLea34) ~35min
+- &#10003; [App Basics For Firefox OS](https://www.youtube.com/watch?v=NRRVQSLea34) ~35min &#10003;
 
 ui/ux
 ---------------------- 
