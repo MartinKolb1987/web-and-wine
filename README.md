@@ -24,6 +24,9 @@ javascript/dev talks
 #### Firefox OS
 - &#10003; [App Basics For Firefox OS](https://www.youtube.com/watch?v=NRRVQSLea34) ~35min &#10003;
 
+#### offline/online connectivity
+- [Network connectivity: optional](http://vimeo.com/94347623) ~30min 
+
 ui/ux
 ---------------------- 
 
