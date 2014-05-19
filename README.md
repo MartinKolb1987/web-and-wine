@@ -32,6 +32,10 @@ javascript/dev talks
 
 #### web components
 - [Web Components: a chance to create the future](https://www.youtube.com/watch?v=JUzjr1bIRUg) ~15min 
+- [Steve Souders : High-Performance Web Components](https://www.youtube.com/watch?v=RaUNkqDIHr4&feature=youtu.be) ~44min 
+
+#### responsive images
+- [Screencast #133: Figuring Out Responsive Images](http://vimeo.com/95506624) ~15min 
 
 ui/ux
 ---------------------- 
