@@ -3,6 +3,7 @@ javascript/dev talks
 
 #### Architecture
 - [Require.js](https://www.youtube.com/watch?v=vWGuaZOTR4U) (34min)
+- [Web Components & the future of the web](https://www.youtube.com/watch?v=Byux3Jfw5e8) (51min)
 
 #### meteor  
 - [Oli Evans - LXJS 2013 - Meteor](https://www.youtube.com/watch?v=jFiLPpTKK-I&feature=youtu.be) ~30min  
@@ -52,6 +53,7 @@ other talks
 ---------------------- 
 * [RSA Animate - Crises of Capitalism](https://www.youtube.com/watch?v=qOP2V_np2c0) (11min)
 * [RSA Animate - The Power of Networks](https://www.youtube.com/watch?v=nJmGrNdJ5Gw) (11min)
+* [Eating Hotdogs like a freak](https://www.youtube.com/watch?v=6Tq00PyPHP4&list=PLE50FC91A844EEC33) (7mins)
 * [Ant Colony Optimization](https://www.youtube.com/watch?v=SMc6UR5blS0) (4min)
 * [Hausdurchsuchung](https://www.youtube.com/watch?v=6QN5pashwKk) ~1h11min
 * [Human Excellence: Justin Packshaw at TEDxLondonBusinessSchool 2014](https://www.youtube.com/watch?v=VZuEHJUg9Yo&list=PLsRNoUx8w3rOHqEz_K3Sg3xwWOZgK1Cwt) ~21min
