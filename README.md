@@ -16,14 +16,14 @@ javascript/dev talks
 - [JavaScript Testing with Jasmine](http://vimeo.com/71326996) ~7min 
 
 #### ECMAScript 6  
-- &#10003; [Douglas Crockford: The Better Parts, incl. ECMAScript 6](http://www.ustream.tv/recorded/46640057) ~51min  &#10003;
+- &#10003; [Douglas Crockford: The Better Parts, incl. ECMAScript 6](http://www.ustream.tv/recorded/46640057) ~51min  
 
 #### error handling  
 - [MountainWest JavaScript 2014 - Traces of Errors: Getting Better JavaScript Stacktraces (client-side)](https://www.youtube.com/watch?v=4Tys-VuBPgo) ~28min 
 - [MountainWest JavaScript 2014 - full stack error handling in node.js](https://www.youtube.com/watch?v=p-2fzgfk9AA) ~24min
 
 #### Firefox OS
-- &#10003; [App Basics For Firefox OS](https://www.youtube.com/watch?v=NRRVQSLea34) ~35min &#10003;
+- &#10003; [App Basics For Firefox OS](https://www.youtube.com/watch?v=NRRVQSLea34) ~35min
 
 #### offline/online connectivity
 - [Network connectivity: optional](http://vimeo.com/94347623) ~30min 
@@ -47,13 +47,13 @@ web & society
 ---------------------- 
 
 #### 30c3 / Jacob Applebaum (TOR Project, u.A.)
--  &#10003; [To Protect And Infect Pt2](http://media.ccc.de/browse/congress/2013/30C3_-_5713_-_en_-_saal_2_-_201312301130_-_to_protect_and_infect_part_2_-_jacob.html) (bereits angefangen) ~1h, 35min  &#10003;
+-  &#10003; [To Protect And Infect Pt2](http://media.ccc.de/browse/congress/2013/30C3_-_5713_-_en_-_saal_2_-_201312301130_-_to_protect_and_infect_part_2_-_jacob.html) (bereits angefangen) ~1h, 35min
 
 other talks
 ---------------------- 
 * [RSA Animate - Crises of Capitalism](https://www.youtube.com/watch?v=qOP2V_np2c0) (11min)
-* &#10003; [RSA Animate - The Power of Networks](https://www.youtube.com/watch?v=nJmGrNdJ5Gw) (11min) &#10003;
-* &#10003; [Eating Hotdogs like a freak](https://www.youtube.com/watch?v=6Tq00PyPHP4&list=PLE50FC91A844EEC33) (7mins) &#10003;
+* &#10003; [RSA Animate - The Power of Networks](https://www.youtube.com/watch?v=nJmGrNdJ5Gw) (11min)
+* &#10003; [Eating Hotdogs like a freak](https://www.youtube.com/watch?v=6Tq00PyPHP4&list=PLE50FC91A844EEC33) (7mins)
 * [Ant Colony Optimization](https://www.youtube.com/watch?v=SMc6UR5blS0) (4min)
 * [Hausdurchsuchung](https://www.youtube.com/watch?v=6QN5pashwKk) ~1h11min
 * [Human Excellence: Justin Packshaw at TEDxLondonBusinessSchool 2014](https://www.youtube.com/watch?v=VZuEHJUg9Yo&list=PLsRNoUx8w3rOHqEz_K3Sg3xwWOZgK1Cwt) ~21min
