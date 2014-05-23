@@ -32,6 +32,7 @@ javascript/dev talks
 - [Studies of how Dropbox improved performance](http://www.youtube.com/watch?v=3VvPiJ2TzXs&feature=youtu.be&desktop_uri=%2Fwatch%3Fv%3D3VvPiJ2TzXs%26feature%3Dyoutu.be&app=desktop) ~15min 
 
 #### web components
+- [Introduction to Polymer: The Next Generation of Web Development - Matthew McNulty](https://www.youtube.com/watch?v=8-Zq2KUN6jM) ~21min 
 - [Web Components: a chance to create the future](https://www.youtube.com/watch?v=JUzjr1bIRUg) ~15min 
 - [Steve Souders : High-Performance Web Components](https://www.youtube.com/watch?v=RaUNkqDIHr4&feature=youtu.be) ~44min 
 
