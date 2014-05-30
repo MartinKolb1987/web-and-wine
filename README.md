@@ -12,6 +12,9 @@ javascript/dev talks
 - [AngularJS Fundamentals In 60-ish Minutes](https://www.youtube.com/watch?v=i9MHigUZKEM&feature=youtu.be) ~70min 
 - [Testing with AngularJS - ngToronto Sept 25th 2013](https://www.youtube.com/watch?v=AKwqfHm-3ZQ&feature=youtu.be) ~40min 
 
+#### react - js library for building user interfaces  
+- [Pete Hunt - The Secrets of React's Virtual DOM (FutureJS 2014)](https://www.youtube.com/watch?v=-DX3vJiqxm4) ~35min 
+
 #### jasmine  
 - [JavaScript Testing with Jasmine](http://vimeo.com/71326996) ~7min 
 
