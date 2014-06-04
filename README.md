@@ -43,6 +43,9 @@ javascript/dev talks
 #### responsive images
 - [Screencast #133: Figuring Out Responsive Images](http://vimeo.com/95506624) ~15min 
 
+#### Data / Databases
+- [Introduction to Graph Databases by Stefan Armbuster](https://www.youtube.com/watch?v=rpDt_915jU0) ~43min
+
 ui/ux
 ---------------------- 
 
@@ -62,3 +65,4 @@ other talks
 * &#10003; [Ant Colony Optimization](https://www.youtube.com/watch?v=SMc6UR5blS0) (4min)
 * [Hausdurchsuchung](https://www.youtube.com/watch?v=6QN5pashwKk) ~1h11min
 * [Human Excellence: Justin Packshaw at TEDxLondonBusinessSchool 2014](https://www.youtube.com/watch?v=VZuEHJUg9Yo&list=PLsRNoUx8w3rOHqEz_K3Sg3xwWOZgK1Cwt) ~21min
+* [Ray Kurzweil: Get ready for hybrid thinking](https://www.youtube.com/watch?v=PVXQUItNEDQ) ~9min
