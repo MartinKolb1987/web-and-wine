@@ -1,6 +1,9 @@
 javascript/dev talks
 ----------------------
 
+#### Lange Nacht des JavaScript
+- [Crockford on JavaScript](https://www.youtube.com/watch?v=JxAXlJEmNMg) (1:45min)
+
 #### Architecture
 - [Require.js](https://www.youtube.com/watch?v=vWGuaZOTR4U) (34min)
 - [Web Components & the future of the web](https://www.youtube.com/watch?v=Byux3Jfw5e8) (51min)
