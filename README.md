@@ -42,6 +42,7 @@ javascript/dev talks
 - [Introduction to Polymer: The Next Generation of Web Development - Matthew McNulty](https://www.youtube.com/watch?v=8-Zq2KUN6jM) ~21min 
 - [Web Components: a chance to create the future](https://www.youtube.com/watch?v=JUzjr1bIRUg) ~15min 
 - [Steve Souders : High-Performance Web Components](https://www.youtube.com/watch?v=RaUNkqDIHr4&feature=youtu.be) ~44min 
+- [Polymer: Interacting with Google Services using nothing but HTML](https://www.youtube.com/watch?v=eORqFaf_QzM) ~10min 
 
 #### responsive images
 - [Screencast #133: Figuring Out Responsive Images](http://vimeo.com/95506624) ~15min 
