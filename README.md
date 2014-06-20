@@ -2,7 +2,14 @@ javascript/dev talks
 ----------------------
 
 #### Lange Nacht des JavaScript
-- [Crockford on JavaScript](https://www.youtube.com/watch?v=JxAXlJEmNMg) (1:45min)
+- [Crockford on JavaScript - Volume 1: The Early Years](https://www.youtube.com/watch?v=JxAXlJEmNMg) (1:45min)
+- [Crockford on JavaScript - Chapter 2: And Then There Was JavaScript](https://www.youtube.com/watch?v=RO1Wnu-xKoY) (1:30min)
+- [Crockford on JavaScript - Act III: Function the Ultimate](https://www.youtube.com/watch?v=ya4UHuXNygM) (1:13min)
+- [Crockford on JavaScript - Episode IV: The Metamorphosis of Ajax](https://www.youtube.com/watch?v=Fv9qT9joc0M) (1:33min)
+- [Crockford on JavaScript - Part 5: The End of All Things](https://www.youtube.com/watch?v=47Ceot8yqeI) (1:24min)
+- [Crockford on JavaScript - Scene 6: Loopage](https://www.youtube.com/watch?v=QgwSUtYSUqA) (51min)
+- [Crockford on JavaScript - Level 7: ECMAScript 5: The New Parts](https://www.youtube.com/watch?v=UTEqr0IlFKY) (57min)
+- [Crockford on JavaScript - Section 8: Programming Style & Your Brain](https://www.youtube.com/watch?v=taaEzHI9xyY) (1:06min)
 
 #### Architecture
 - [Require.js](https://www.youtube.com/watch?v=vWGuaZOTR4U) (34min)
