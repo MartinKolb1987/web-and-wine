@@ -1,6 +1,10 @@
 javascript/dev talks
 ----------------------
 
+#### Sammlung an Javascript Videos
+
+- https://github.com/bolshchikov/js-must-watch
+
 #### Lange Nacht des JavaScript
 - [Crockford on JavaScript - Volume 1: The Early Years](https://www.youtube.com/watch?v=JxAXlJEmNMg) (1:45min)
 - [Crockford on JavaScript - Chapter 2: And Then There Was JavaScript](https://www.youtube.com/watch?v=RO1Wnu-xKoY) (1:30min)
