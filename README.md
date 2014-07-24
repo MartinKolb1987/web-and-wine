@@ -1,8 +1,10 @@
 javascript/dev talks
 ----------------------
+#### Programming in general
+- [What Every Hipster Should Know About Functional Reactive Programming](http://www.infoq.com/presentations/game-functional-reactive-programming) (46min)
+
 
 #### Sammlung an Javascript Videos
-
 - https://github.com/bolshchikov/js-must-watch
 
 #### Lange Nacht des JavaScript
@@ -15,9 +17,10 @@ javascript/dev talks
 - [Crockford on JavaScript - Level 7: ECMAScript 5: The New Parts](https://www.youtube.com/watch?v=UTEqr0IlFKY) (57min)
 - [Crockford on JavaScript - Section 8: Programming Style & Your Brain](https://www.youtube.com/watch?v=taaEzHI9xyY) (1:06min)
 
-#### Architecture
+#### Architecture & Workflows
 - [Require.js](https://www.youtube.com/watch?v=vWGuaZOTR4U) (34min)
 - [Web Components & the future of the web](https://www.youtube.com/watch?v=Byux3Jfw5e8) (51min)
+- [Paul Irish, "JavaScript Development Workflow of 2013"](https://www.youtube.com/watch?v=f7AU2Ozu8eo) (25min)
 
 #### meteor  
 - [Oli Evans - LXJS 2013 - Meteor](https://www.youtube.com/watch?v=jFiLPpTKK-I&feature=youtu.be) ~30min  
