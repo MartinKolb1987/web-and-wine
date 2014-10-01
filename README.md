@@ -22,6 +22,9 @@ javascript/dev talks
 - [Web Components & the future of the web](https://www.youtube.com/watch?v=Byux3Jfw5e8) (51min)
 - [Paul Irish, "JavaScript Development Workflow of 2013"](https://www.youtube.com/watch?v=f7AU2Ozu8eo) (25min)
 
+#### Operating Systems
+- [A First Look at Windows 10](https://www.youtube.com/watch?v=NfveyXCsiA8&list=UUVGOyzms_XJNk_DHqrffXCw) (39min)
+
 #### meteor  
 - [Oli Evans - LXJS 2013 - Meteor](https://www.youtube.com/watch?v=jFiLPpTKK-I&feature=youtu.be) ~30min  
 
