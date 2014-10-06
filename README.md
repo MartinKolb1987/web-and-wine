@@ -23,6 +23,9 @@ javascript/dev talks
 - [Web Components & the future of the web](https://www.youtube.com/watch?v=Byux3Jfw5e8) (51min)
 - [Paul Irish, "JavaScript Development Workflow of 2013"](https://www.youtube.com/watch?v=f7AU2Ozu8eo) (25min)
 
+#### APIs
+- [How to Build Linked Data APIs with JSON LD and Hydra](https://www.youtube.com/watch?v=fJCtaNRxg9M) (30min)
+
 #### Operating Systems
 - [A First Look at Windows 10](https://www.youtube.com/watch?v=NfveyXCsiA8&list=UUVGOyzms_XJNk_DHqrffXCw) (39min)
 - [Office Sway](https://www.youtube.com/watch?v=IUBTY25bDOQ) (17min)
