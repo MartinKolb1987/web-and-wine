@@ -1,7 +1,8 @@
 javascript/dev talks
 ----------------------
-#### Programming in general
+#### Programming & webdesign in general
 - [What Every Hipster Should Know About Functional Reactive Programming](http://www.infoq.com/presentations/game-functional-reactive-programming) (46min)
+- [20 years of Webdesign and Community](http://alistapart.com/blog/post/jeffrey-zeldman-documentary) (40min)
 
 
 #### Sammlung an Javascript Videos
