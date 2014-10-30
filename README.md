@@ -28,7 +28,7 @@ javascript/dev talks
 
 #### Operating Systems
 - [A First Look at Windows 10](https://www.youtube.com/watch?v=NfveyXCsiA8&list=UUVGOyzms_XJNk_DHqrffXCw) (39min)
-- [Office Sway](https://www.youtube.com/watch?v=IUBTY25bDOQ) (17min)
+- &#10003; [Office Sway](https://www.youtube.com/watch?v=IUBTY25bDOQ) (17min)
 
 #### meteor  
 - [Oli Evans - LXJS 2013 - Meteor](https://www.youtube.com/watch?v=jFiLPpTKK-I&feature=youtu.be) ~30min  
