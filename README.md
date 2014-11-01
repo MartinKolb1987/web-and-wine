@@ -2,7 +2,7 @@ javascript/dev talks
 ----------------------
 #### Programming & webdesign in general
 - [What Every Hipster Should Know About Functional Reactive Programming](http://www.infoq.com/presentations/game-functional-reactive-programming) (46min)
-- [20 years of Webdesign and Community](http://alistapart.com/blog/post/jeffrey-zeldman-documentary) (40min)
+- &#10003; [20 years of Webdesign and Community](http://alistapart.com/blog/post/jeffrey-zeldman-documentary) (40min)
 
 
 #### Sammlung an Javascript Videos
@@ -22,6 +22,10 @@ javascript/dev talks
 - [Require.js](https://www.youtube.com/watch?v=vWGuaZOTR4U) (34min)
 - [Web Components & the future of the web](https://www.youtube.com/watch?v=Byux3Jfw5e8) (51min)
 - [Paul Irish, "JavaScript Development Workflow of 2013"](https://www.youtube.com/watch?v=f7AU2Ozu8eo) (25min)
+
+#### Security
+- [Tim Taubert: Keeping secrets with JavaScript | JSConf EU 2014](https://www.youtube.com/watch?v=yf4m9LdO1zI) (~23min)
+
 
 #### APIs
 - [How to Build Linked Data APIs with JSON LD and Hydra](https://www.youtube.com/watch?v=fJCtaNRxg9M) (30min)
