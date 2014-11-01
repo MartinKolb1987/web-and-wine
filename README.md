@@ -55,7 +55,7 @@ javascript/dev talks
 - [Firefox OS : freedom for smartphones ?: Tristan Nitot at TEDxGeneva 2014](https://www.youtube.com/watch?v=JeXP5Ks75LI&feature=youtu.be) ~13min
 
 #### offline/online connectivity
-- [Network connectivity: optional](http://vimeo.com/94347623) ~30min 
+- &#10003; [Network connectivity: optional](http://vimeo.com/94347623) ~30min 
 
 #### performance
 - [Studies of how Dropbox improved performance](http://www.youtube.com/watch?v=3VvPiJ2TzXs&feature=youtu.be&desktop_uri=%2Fwatch%3Fv%3D3VvPiJ2TzXs%26feature%3Dyoutu.be&app=desktop) ~15min 
