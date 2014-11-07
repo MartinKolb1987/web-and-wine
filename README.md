@@ -1,12 +1,12 @@
-javascript/dev talks
-----------------------
-#### Programming & webdesign in general
-- [ ] [What Every Hipster Should Know About Functional Reactive Programming](http://www.infoq.com/presentations/game-functional-reactive-programming) (46min)
-- [x] [20 years of Webdesign and Community](http://alistapart.com/blog/post/jeffrey-zeldman-documentary) (40min)
-
+###javascript/dev talks
 
 #### Sammlung an Javascript Videos
 - https://github.com/bolshchikov/js-must-watch
+
+#### Programming & webdesign in general
+- [ ] [What Every Hipster Should Know About Functional Reactive Programming](http://www.infoq.com/presentations/game-functional-reactive-programming) (46min)
+- [x] [20 years of Webdesign and Community](http://alistapart.com/blog/post/jeffrey-zeldman-documentary) (40min)
+- [ ] [Gary Bernhardt: **The Birth & Death of Javascript**](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) [29:22]
 
 #### Lange Nacht des JavaScript
 - [ ] [Crockford on JavaScript - Volume 1: The Early Years](https://www.youtube.com/watch?v=JxAXlJEmNMg) (1:45min)
@@ -25,7 +25,6 @@ javascript/dev talks
 
 #### Security
 - [ ] [Tim Taubert: Keeping secrets with JavaScript | JSConf EU 2014](https://www.youtube.com/watch?v=yf4m9LdO1zI) (~23min)
-
 
 #### APIs
 - [ ] [How to Build Linked Data APIs with JSON LD and Hydra](https://www.youtube.com/watch?v=fJCtaNRxg9M) (30min)
@@ -79,18 +78,14 @@ javascript/dev talks
 #### caniuse.com connected to google analytics
 - [ ] [caniuse.com connected to google analytics](https://www.youtube.com/watch?v=k0IsEIIgfaI&feature=youtu.be) ~3min
 
-ui/ux
----------------------- 
-
+### UI / UX
 - [x] [How to Rethink Navigation for 2in1s](https://software.intel.com/en-us/videos/how-to-rethink-navigation-for-2in1s) ~5min  
 
-web & society
----------------------- 
-
+### web & society
 - [ ] 30c3 / Jacob Applebaum (TOR Project, u.A.)
 - [x] [To Protect And Infect Pt2](http://media.ccc.de/browse/congress/2013/30C3_-_5713_-_en_-_saal_2_-_201312301130_-_to_protect_and_infect_part_2_-_jacob.html) (bereits angefangen) ~1h, 35min
 
-other talks
+### other talks
 ---------------------- 
 - [x] [RSA Animate - Crises of Capitalism](https://www.youtube.com/watch?v=qOP2V_np2c0) (11min)
 - [x] [RSA Animate - The Power of Networks](https://www.youtube.com/watch?v=nJmGrNdJ5Gw) (11min)
