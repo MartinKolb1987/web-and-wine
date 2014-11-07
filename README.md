@@ -1,4 +1,5 @@
 ###javascript/dev talks
+---------------------- 
 
 #### Sammlung an Javascript Videos
 - https://github.com/bolshchikov/js-must-watch
@@ -79,9 +80,11 @@
 - [ ] [caniuse.com connected to google analytics](https://www.youtube.com/watch?v=k0IsEIIgfaI&feature=youtu.be) ~3min
 
 ### UI / UX
+---------------------- 
 - [x] [How to Rethink Navigation for 2in1s](https://software.intel.com/en-us/videos/how-to-rethink-navigation-for-2in1s) ~5min  
 
 ### web & society
+---------------------- 
 - [ ] 30c3 / Jacob Applebaum (TOR Project, u.A.)
 - [x] [To Protect And Infect Pt2](http://media.ccc.de/browse/congress/2013/30C3_-_5713_-_en_-_saal_2_-_201312301130_-_to_protect_and_infect_part_2_-_jacob.html) (bereits angefangen) ~1h, 35min
 
