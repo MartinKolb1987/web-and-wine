@@ -7,7 +7,7 @@
 #### Programming & webdesign in general
 - [ ] [What Every Hipster Should Know About Functional Reactive Programming](http://www.infoq.com/presentations/game-functional-reactive-programming) (46min)
 - [x] [20 years of Webdesign and Community](http://alistapart.com/blog/post/jeffrey-zeldman-documentary) (40min)
-- [ ] [Gary Bernhardt: **The Birth & Death of Javascript**](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) [29:22]
+- [ ] [Gary Bernhardt: The Birth & Death of Javascript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) [29:22]
 
 #### Lange Nacht des JavaScript
 - [ ] [Crockford on JavaScript - Volume 1: The Early Years](https://www.youtube.com/watch?v=JxAXlJEmNMg) (1:45min)
@@ -49,6 +49,7 @@
 
 #### ECMAScript 6  
 - [x] [Douglas Crockford: The Better Parts, incl. ECMAScript 6](http://www.ustream.tv/recorded/46640057) ~51min  
+- [ ] [Allen Wirfs-Brock - ECMAScript 6, A Better JavaScript for the Ambient Web](https://www.youtube.com/watch?v=ZGY8Cktn6W4) ~47min
 
 #### error handling  
 - [ ] [MountainWest JavaScript 2014 - Traces of Errors: Getting Better JavaScript Stacktraces (client-side)](https://www.youtube.com/watch?v=4Tys-VuBPgo) ~28min 
